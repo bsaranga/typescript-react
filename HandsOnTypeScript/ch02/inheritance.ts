@@ -1,5 +1,5 @@
 class Vehicle {
-    constructor(public wheelCount: number){}
+    constructor(protected wheelCount: number){}
 
     showNumberOfWheels(): string {
         return `Wheel Count: ${this.wheelCount}`
