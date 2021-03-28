@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx tsc spread.ts --target \"es6\" && node spread.js"
+    "start": "npx tsc setandmap.ts --target \"es6\" && node setandmap.js"
   },
   "keywords": [],
   "author": "",
