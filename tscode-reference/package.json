@@ -1,0 +1,11 @@
+{
+  "name": "tscode-reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc ts/inheritance.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
