@@ -18,4 +18,9 @@ const tom: User = {
     age: 15
 };
 
+const pete: User = {
+    name: 'peter',
+    age: 21
+}
+
 canDrive(tom);

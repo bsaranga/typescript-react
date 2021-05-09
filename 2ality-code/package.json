@@ -1,11 +1,12 @@
 {
-  "name": "tscode-reference",
+  "name": "2ality-code",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "tsc ts/inheritance.ts"
+    "compile": "tsc --build tsconfig.json"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC"
 }
